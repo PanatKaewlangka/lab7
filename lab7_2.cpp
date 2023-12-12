@@ -31,5 +31,5 @@ cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watching 
 string jaa;
 getline(cin,jaa);
 cout << name << ": ";
-cout << "Fahsai: 555+ see you " << day << ". Bye Bye \(^ ^)/\n";
+cout << "Fahsai: 555+ see you " << day << ". Bye Bye \\(^ ^)/\n";
 }
